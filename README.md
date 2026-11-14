@@ -1,11 +1,11 @@
 # Real Estate Acquisitions Portfolio
 
-Underwriting models, deal write-ups, and automation tools for real estate private equity acquisitions, with a focus on **value-add** and **opportunistic** strategies.
+Underwriting models, deal write-ups, and automation tools for real estate private equity acquisitions, with a focus on value-add and opportunistic strategies in the multifamily housing space.
 
 > Status: Phase 0 (setup). Replace the bracketed placeholders below as you build.
 
-**Focus:** [asset class] in [target metro areas]
-**Author:** [your name] | [LinkedIn URL]
+**Focus:** Multifamily housing in Orlando, Miami, and Central New Jersey
+**Author:** Luke Kodila | https://www.linkedin.com/in/luke-kodila/
 
 ## What is in this repo
 
