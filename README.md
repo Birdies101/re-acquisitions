@@ -24,7 +24,6 @@ Underwriting models, deal write-ups, and automation tools for real estate privat
 
 ## Featured work
 
-Pin your best two or three items here once they exist.
 
 - [ ] [Project or teardown name](link): one-sentence description and result
 - [ ] [Project or teardown name](link): one-sentence description and result
