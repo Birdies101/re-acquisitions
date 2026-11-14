@@ -1,0 +1,28 @@
+# Raw data downloads (keep folder notes only)
+data/raw/*
+!data/raw/README.md
+!data/raw/.gitkeep
+
+# Secrets and local config
+.env
+*.key
+*.pem
+
+# Excel and Office temp files
+~$*
+.~lock*
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

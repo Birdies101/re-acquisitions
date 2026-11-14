@@ -1,0 +1,2 @@
+date_screened,property_name,listing_url,market,asset_type,strategy,price_usd,units_or_sf,price_per_unit_or_sf,in_place_noi_usd,going_in_cap_rate,stabilized_noi_usd,yield_on_cost,exit_cap_assumption,key_assumptions,biggest_risks,decision,reason,what_happened_later,date_reviewed
+2026-11-14,EXAMPLE (delete this row),,Example metro,Multifamily,Value-add,30000000,200 units,150000,1500000,5.0%,1950000,5.9%,5.25%,$12k/unit renovation; rent premium on renovated units,Insurance and tax growth; lease-up pace; floating-rate debt,Pass,Spread of yield on cost over exit cap is too thin,,
